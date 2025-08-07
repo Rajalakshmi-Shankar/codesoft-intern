@@ -1,2 +1,1 @@
-Task 1: Titanic Survival Prediction
-In the first task, I explored the classic Titanic dataset to predict passenger survival. Leveraging machine learning algorithms and data analysis techniques, I aimed to uncover patterns and factors influencing survival rates. My approach and code for this task can be found on
+Here is the Task 1 code file for my Codsoft internship which is titanic survival prediction I have also made available the dataset used, or you can always use Kaggle I first pre-processed the data, cleaned it and converted the object datatype into numerical I used logistic regression, random forest classification and KNN models and compared the accuracy delivered by each model platform used: jupyter lab programming language : pyhton
